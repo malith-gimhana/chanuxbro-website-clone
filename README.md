@@ -4,3 +4,5 @@
 <a href="https://chanuxbro.com/">Chanux Bro Official Website</a>
 <br>
 <a href="https://malith-gimhana.github.io/chanuxbro-website-clone/">Chanux Bro Website Clone</a>
+<br><br>
+<p>By <a href="https://malithgimhana.tk/">Malith Gimhana </a></p>
